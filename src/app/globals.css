@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ .custom-img{
+    background-image: url("../../public/new car.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
